@@ -5,4 +5,4 @@ Assignment: Reproducible figures in R
 - Assignment contains the sub-folder 'data' - with the raw and clean csv files contained within it.
 - Assignment contains the sub-folder 'functions' - with two R files for cleaning the data ('cleaning2') and plotting the data ('plotting2') respectively.
 
-! The code will not run until you download the Assignment folder and set your working directory to the folder.
+! The code will not run until you download the Assignment folder zip and set your working directory to the folder.
