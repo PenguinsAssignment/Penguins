@@ -15,6 +15,20 @@
 ### Contains copies of the rmd and pdf submitted to inspera
 
 - This is for reference and tracking version edits
-- In the files here, following a review of my partner's code and receiving feedback question 3 is completed 
+- In the files here, following a review of my partner's code and receiving feedback question 3 is completed
+
+
+#### Note: If encountering sourcing issues: attempt the following workaround
+
+1) Include in set up chunk and run: 
+```R
+  knitr::opts_knit$set(root.dir = "your_path_file_to_the_folder_Assignment_from_the_repo")
+```
+2) Run the code chunk by chunk
+
+3) Then select run all
+
+  
+
 
 
